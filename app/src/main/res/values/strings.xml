@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestUI</string>
+    <string name="go">GO</string>
+    <string name="texte">texte</string>
+</resources>
